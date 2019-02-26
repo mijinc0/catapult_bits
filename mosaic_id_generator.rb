@@ -1,5 +1,5 @@
-require  "digest/sha3" #Keccak
-require 'sha3' #SHA3
+require "digest/sha3" #Keccak
+require "sha3" #SHA3
 require_relative "./util"
 
 # [ ver cow mosaic ID ]
